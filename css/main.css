@@ -303,9 +303,9 @@ li {
 }
 
 .btn:hover {
-  border: 1px solid #F55800;
-  background: #FFF5E1;
-  color: #F55800;
+  border: 1px solid #f55800;
+  background: #fff5e1;
+  color: #f55800;
 }
 
 .link:hover {
@@ -328,7 +328,7 @@ li {
 }
 
 .contact-title {
-  color: #172B4D;
+  color: #172b4d;
   text-align: center;
   margin-top: 10%;
 }
@@ -348,7 +348,7 @@ li {
   width: 100%;
   padding: 12px;
   border: none;
-  border-bottom: 1px solid #DBD8D7;
+  border-bottom: 1px solid #dbd8d7;
 }
 
 .contact-form input::placeholder {
@@ -361,7 +361,7 @@ li {
 .contact-form textarea {
   width: 100%;
   padding: 12px;
-  background-color: #FBF8F7;
+  background-color: #fbf8f7;
   border: none;
 }
 
